@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EFUXKKLM
 
 [Document5]
-DocumentPath=MercurialSDR_FPGA.SchDoc
+DocumentPath=MercurialSDR_FPGA_Programming_&_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
