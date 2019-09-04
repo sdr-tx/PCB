@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JEITIQPX
 
 [Document2]
-DocumentPath=MercurialSDR_BlockSheet.SchDoc
+DocumentPath=MercurialSDR_BLK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IAIPMMVU
 
 [Document3]
-DocumentPath=MercurialSDR_USB_Regulator.SchDoc
+DocumentPath=MercurialSDR_PWR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EFUXKKLM
 
 [Document4]
-DocumentPath=MercurialSDR_FTDI_Interface.SchDoc
+DocumentPath=MercurialSDR_FTDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VSCTEMPQ
 
 [Document5]
-DocumentPath=MercurialSDR_FPGA_Programming_&_Power.SchDoc
+DocumentPath=MercurialSDR_FPGA_P&P.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ICEBGDKD
 
 [Document6]
-DocumentPath=MercurialSDR_FPGA_Banks.SchDoc
+DocumentPath=MercurialSDR_FPGA_BNK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -156,6 +156,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJTQEIND
+
+[Document8]
+DocumentPath=MercurialSDR_MISC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AIPMILNB
 
 [Configuration1]
 Name=Default Configuration
