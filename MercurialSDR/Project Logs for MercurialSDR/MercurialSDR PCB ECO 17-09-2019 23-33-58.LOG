@@ -1,0 +1,16 @@
+Added Component: Designator=SW0(SWITCH_6X6mm)
+Added Component: Designator=SW1(SWITCH_6X6mm)
+Added Component: Designator=SW2(SWITCH_6X6mm)
+Added Component: Designator=SW3(SWITCH_6X6mm)
+Added Pin To Net: NetName=+3V3 Pin=SW0-1
+Added Pin To Net: NetName=NetC31_2 Pin=SW0-4
+Added Pin To Net: NetName=+3V3 Pin=SW1-1
+Added Pin To Net: NetName=NetC32_2 Pin=SW1-4
+Added Pin To Net: NetName=+3V3 Pin=SW2-1
+Added Pin To Net: NetName=NetC33_2 Pin=SW2-4
+Added Pin To Net: NetName=+3V3 Pin=SW3-1
+Added Pin To Net: NetName=NetC34_2 Pin=SW3-4
+Added Member To Class: ClassName=Miscellaneous Member=Component SW0 Pulsador
+Added Member To Class: ClassName=Miscellaneous Member=Component SW1 Pulsador
+Added Member To Class: ClassName=Miscellaneous Member=Component SW2 Pulsador
+Added Member To Class: ClassName=Miscellaneous Member=Component SW3 Pulsador

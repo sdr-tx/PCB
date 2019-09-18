@@ -1,0 +1,6 @@
+Added Component: Designator=X1(XTAL_3.2x2.5)
+Added Pin To Net: NetName=NetC28_1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=NetC29_2 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Member To Class: ClassName=FTDI Interface Member=Component X1 XTAL_4term
