@@ -1,0 +1,4 @@
+Added Component: Designator=D10(SOD-323)
+Added Pin To Net: NetName=+3V3 Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Member To Class: ClassName=iCE Programming & Power Member=Component D10 Schottky Diode
