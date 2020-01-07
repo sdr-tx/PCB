@@ -196,66 +196,18 @@ DocumentPath=Project Outputs for MercurialSDR\Design Rule Check - MercurialSDR.h
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
 DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for MercurialSDR\MercurialSDR.RUL
 DItemRevisionGUID=
 
