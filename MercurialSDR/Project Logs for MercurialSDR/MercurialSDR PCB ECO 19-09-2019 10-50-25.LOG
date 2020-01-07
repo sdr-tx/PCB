@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=PWM_MOD Pin=U1-76
-Removed Pin From Net: NetName=DAC_SCLK Pin=U1-96
-Removed Pin From Net: NetName=DAC_DATA_IN Pin=U1-98
-Removed Pin From Net: NetName=DAC_SYNC Pin=U1-101
-Added Pin To Net: NetName=DAC_SCLK Pin=U1-74
-Added Pin To Net: NetName=DAC_DATA_IN Pin=U1-76
-Added Pin To Net: NetName=DAC_SYNC Pin=U1-79
-Added Pin To Net: NetName=PWM_MOD Pin=U1-106
